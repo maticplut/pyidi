@@ -19,6 +19,12 @@ Simplified optical flow
 .. automodule:: pyidi.methods._simplified_optical_flow
     :members:
 
+Simplified optical flow on an image pyramid
+-------------------------------------------
+
+.. automodule:: pyidi.methods._simplified_optical_flow_pyramid
+    :members:
+
 The Lucas-Kanade algorithm for translations
 -------------------------------------------
 
